@@ -14,7 +14,7 @@ or
 fluid https://www.youtube.com
 ```
 
-## Demo
+### Demo
 ![Screenshot of alfred app with the "fl" command followed by a url](https://i.imgur.com/dbGqfCY.png)
 
 ![Screenshot of Fluid Browser opened with the pasted url from before](https://i.imgur.com/25rxGW7.png)
