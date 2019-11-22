@@ -1,8 +1,8 @@
 # Alfred-Workflows
-A collection of personal automated workflows for Alfred App
+A collection of personal automated workflows for [Alfred App](https://www.alfredapp.com/)
 
 ## Open With Fluid
-Open a URL with Fluid Browser
+Open a URL with [Fluid Browser](https://fluidbrowser.com/)
 
 ### Usage
 Run either
